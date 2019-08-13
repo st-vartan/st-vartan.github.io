@@ -3888,14 +3888,14 @@ var _jsxFileName = "/Users/bigfatdog/open-source/st-vartan-website/pages/index.j
 
 
 var DynamicComponent = next_dynamic__WEBPACK_IMPORTED_MODULE_1___default()(function () {
-  return Promise.all(/*! import() */[__webpack_require__.e("styles"), __webpack_require__.e(1)]).then(__webpack_require__.bind(null, /*! ../components/Home */ "./components/Home/index.js"));
+  return Promise.all(/*! import() */[__webpack_require__.e("styles"), __webpack_require__.e(1)]).then(__webpack_require__.bind(null, /*! ../components/home */ "./components/home/index.js"));
 }, {
   ssr: false,
   loadableGenerated: {
     webpack: function webpack() {
-      return [/*require.resolve*/(/*! ../components/Home */ "./components/Home/index.js")];
+      return [/*require.resolve*/(/*! ../components/home */ "./components/home/index.js")];
     },
-    modules: ['../components/Home']
+    modules: ['../components/home']
   }
 });
 /* harmony default export */ __webpack_exports__["default"] = (function (props) {
@@ -3910,7 +3910,7 @@ var DynamicComponent = next_dynamic__WEBPACK_IMPORTED_MODULE_1___default()(funct
 
 /***/ }),
 
-/***/ 0:
+/***/ 12:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fbigfatdog%2Fopen-source%2Fst-vartan-website%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************/
@@ -3933,5 +3933,5 @@ module.exports = dll_829b10deddf10e1653a8;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[12,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
