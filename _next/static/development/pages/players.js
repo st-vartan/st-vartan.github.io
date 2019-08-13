@@ -995,7 +995,7 @@ var _jsxFileName = "/Users/bigfatdog/open-source/st-vartan-website/components/pl
 var players = function players() {
   var items = _data__WEBPACK_IMPORTED_MODULE_3__["default"].map(function (d, i) {
     return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-      className: "work-item dark-hover col-md-2 col-lg-2 mb-60 mb-xs-40",
+      className: "work-item dark-hover col-md-2 col-lg-2 col-xs-4 col-sm-3 mb-60 mb-xs-40",
       key: d.name + i,
       __source: {
         fileName: _jsxFileName,
