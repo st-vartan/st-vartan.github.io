@@ -550,7 +550,7 @@ var introduction = function introduction() {
     id: "home",
     style: {
       backgroundPosition: '50% 0px',
-      backgroundImage: 'url("/static/images/court_bg.jpg")'
+      backgroundImage: 'url("/static/images/home/court_bg.jpg")'
     },
     __source: {
       fileName: _jsxFileName,
@@ -818,7 +818,7 @@ var leagues = function leagues() {
     __self: this
   }, "St.Vartan Basketball Tournament is a summer street basketball league running on Saturday mornings from June - September every summer."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "page-section banner-section bg-dark bg-dark-alpha-80",
-    "data-background": "/static/images/court_bg.jpg",
+    "data-background": "/static/images/home/court_bg.jpg",
     style: {
       backgroundImage: 'url(/static/images/home/welcome_league.jpg)',
       opacity: 1,
